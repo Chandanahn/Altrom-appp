@@ -9,7 +9,9 @@ public class AlstromApppApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AlstromApppApplication.class, args);
 		
-		System.out.println("Fuckkk offf");
+		System.out.println("Welcome");
+		
+		System.out.println("second change");
 	}
 
 }
